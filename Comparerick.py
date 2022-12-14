@@ -1,3 +1,4 @@
+#type() is how you tell the datatype of something
 #This is a cool project
 #Although I am a starter, I already know these information (I am a computer nerd)
 import random

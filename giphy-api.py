@@ -1,4 +1,4 @@
-# python
+# This is cool aπ :)
 import json
 
 from urllib import parse, request
